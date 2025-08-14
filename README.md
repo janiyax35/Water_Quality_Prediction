@@ -72,3 +72,13 @@ The model analyzes 9 key parameters: pH, Hardness, Solids, Chloramines, Sulfate,
    ```bash
    git clone https://github.com/janiyax35/janiyax35.git
    cd janiyax35
+
+2. **Create a virtual environment**:
+   ```bash
+   python -m venv venv
+
+   # On Windows:
+   venv\Scripts\activate
+
+   # On macOS/Linux:
+   source venv/bin/activate
