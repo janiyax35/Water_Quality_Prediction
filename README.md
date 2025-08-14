@@ -175,14 +175,14 @@ The model was trained using the Water Quality dataset from Kaggle, which contain
 
 ## 👨‍💻 About Me
 
-Hi! I'm Janiya, a passionate data scientist and web developer interested in using technology to solve environmental challenges. This project combines my interest in machine learning with my concern for clean water access.
+Hi! I'm Janith Deshan, a passionate about cybersecurity, network systems, secure application development and web developer interested in using technology to solve environmental challenges. This project combines my interest in machine learning with my concern for clean water access.
 
 Feel free to connect with me:
 
 <div align="center">
   <a href="https://github.com/janiyax35"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/janiya-x/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:janiyax35@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/janithdeshan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:janithmihijaya123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ## 📜 License
