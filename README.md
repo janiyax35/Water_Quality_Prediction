@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxxaGRxZG51d3BwdW4xNHdqZGd6Mm9za3QyaTZtdjVkYXg1bzR3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3hpF70J0hzwRdq8GoZ/giphy.gif" alt="Water Animation" width="600"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Water Animation" width="600"/>
 </div>
 
 ## 🌊 Overview
@@ -32,7 +32,7 @@ This project implements a machine learning model to predict water potability bas
 The model analyzes 9 key parameters: pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic Carbon, Trihalomethanes, and Turbidity to make accurate predictions about water safety.
 
 <div align="center">
-  <img src="https://source.unsplash.com/1600x400/?water,quality" alt="Water Banner" width="800"/>
+  <img src="https://plus.unsplash.com/premium_photo-1710628263718-367b1cf5828f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Water Banner" width="800"/>
 </div>
 
 ## ✨ Features
@@ -134,7 +134,7 @@ Water_Quality_Prediction/
 │   ├── js/                 # JavaScript files
 ├── templates/
 │   ├── index.html          # Main application page
-|   ├── water_potability.csv # Training dataset
+├── water_potability.csv # Training dataset
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project documentation
 ```
