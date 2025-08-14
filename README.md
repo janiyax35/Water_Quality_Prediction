@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/water-drop.png" alt="Water Quality Logo"/>
+  <img src="https://img.icons8.com/?size=100&id=13101&format=png&color=000000" alt="Water Quality Logo"/>
   
   # 💧 Water Quality Prediction Application 💧
   
@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Water Animation" width="600"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdtdHRvY2htY3FkcnJ0M21xbzdiMXY2YTRzeHJpYWNwbXExODVuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qerXDIdno0mQM/giphy.gif" alt="Water Animation" width="600"/>
 </div>
 
 ## 🌊 Overview
