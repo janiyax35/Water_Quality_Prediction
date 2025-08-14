@@ -118,9 +118,13 @@ The model analyzes 9 key parameters: pH, Hardness, Solids, Chloramines, Sulfate,
    - Green: Water is safe to drink
    - Yellow: Water quality is questionable
    - Red: Water is not potable
-
+   - 
+## 💡 Final Outcome
 <div align="center">
-  <img src="https://source.unsplash.com/800x400/?dashboard,water" alt="Application Screenshot" width="700"/>
+  <img src="https://github.com/janiyax35/Water_Quality_Prediction/blob/main/assets/SS01.png" alt="Application Screenshot" width="700"/>
+  <img src="https://github.com/janiyax35/Water_Quality_Prediction/blob/main/assets/SS02.png" alt="Application Screenshot" width="700"/>
+  <img src="https://github.com/janiyax35/Water_Quality_Prediction/blob/main/assets/SS03.png" alt="Application Screenshot" width="700"/>
+  <img src="https://github.com/janiyax35/Water_Quality_Prediction/blob/main/assets/SS04.png" alt="Application Screenshot" width="700"/>
 </div>
 
 ## 📁 Project Structure
